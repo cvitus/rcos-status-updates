@@ -1,0 +1,28 @@
+Github stuff:
+
+Download a repository:
+git clone URL.git
+
+
+If you add a new file:
+git add FILE_NAME
+
+
+Commit your changes: (make changes)
+git commit -a -m "YOUR MESSAGE OF WHAT YOU CHANGED"
+
+
+Push your commits: (saves changes everywhere/ uploads)
+git push -u origin master
+
+
+Create a branch (do for open circuits):
+git checkout -b BRANCH_NAME
+
+
+Switch to branch:
+git checkout BRANCH_NAME
+
+
+Push your branch:
+git push -u origin BRANCH_NAME
