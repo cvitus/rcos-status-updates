@@ -12,10 +12,10 @@ Commit your changes: (make changes)
 git commit -a -m "YOUR MESSAGE OF WHAT YOU CHANGED"
 
 
-Push your commits: (saves changes everywhere/ uploads)
+Push your commits: (saves changes everywhere/ upload changes)
 git push -u origin master
 
-
+------------------------------------------------------ do first
 Create a branch (do for open circuits):
 git checkout -b BRANCH_NAME
 
